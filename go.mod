@@ -1,4 +1,4 @@
-module 3zfhttp
+module github.com/3zSoftware/fhttp
 
 go 1.20
 

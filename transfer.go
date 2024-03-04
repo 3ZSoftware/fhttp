@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"3zfhttp/internal"
+	"github.com/3zSoftware/fhttp/internal"
 
 	"github.com/bogdanfinn/fhttp/httptrace"
 
