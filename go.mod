@@ -4,6 +4,7 @@ go 1.20
 
 require (
 	github.com/andybalholm/brotli v1.0.5
+	github.com/bogdanfinn/fhttp v0.5.27
 	github.com/bogdanfinn/utls v1.6.1
 	golang.org/x/net v0.17.0
 	golang.org/x/term v0.13.0
@@ -18,4 +19,4 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 )
 
-replace github.com/bogdanfinn/utls => github.com/3zSoftware/fhttp v0.5.27
+//replace github.com/bogdanfinn/utls => github.com/3zSoftware/utls v1.6.1
