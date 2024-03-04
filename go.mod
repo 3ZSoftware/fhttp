@@ -1,4 +1,4 @@
-module github.com/3zSoftware/fhttp
+module 3zfhttp
 
 go 1.20
 
@@ -19,4 +19,5 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 )
 
-//replace github.com/bogdanfinn/utls => github.com/3zSoftware/utls v1.6.1
+// replace github.com/bogdanfinn/utls => ../utls
+replace github.com/bogdanfinn/fhttp => github.com/3zSoftware/fhttp v0.5.28-0.20240304185945-8e5bd095a886
