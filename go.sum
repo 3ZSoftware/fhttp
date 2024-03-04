@@ -1,9 +1,9 @@
 github.com/3zSoftware/fhttp v0.5.28-0.20240304185945-8e5bd095a886 h1:O4LrriXzCehYbcj9ffE1RMfJHTo8XwDvzV6Whk0U0GY=
 github.com/3zSoftware/fhttp v0.5.28-0.20240304185945-8e5bd095a886/go.mod h1:LaG6al7Hv0SV7DRXe7KnWtbER7gD2W3pUJ0WQSVJG+s=
+github.com/3zSoftware/utls v1.6.2-0.20240304190453-336a5b43596e h1:Uv6styWwL4OXv0vgC575mKy8rmbeb1qlBMXu5EjvkQY=
+github.com/3zSoftware/utls v1.6.2-0.20240304190453-336a5b43596e/go.mod h1:KQHkvMi5FQtOErplfnL41tYk5Yezu4H4OdxVkztmSAQ=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
-github.com/bogdanfinn/utls v1.6.1 h1:dKDYAcXEyFFJ3GaWaN89DEyjyRraD1qb4osdEK89ass=
-github.com/bogdanfinn/utls v1.6.1/go.mod h1:VXIbRZaiY/wHZc6Hu+DZ4O2CgTzjhjCg/Ou3V4r/39Y=
 github.com/cloudflare/circl v1.3.6 h1:/xbKIqSHbZXHwkhbrhrt2YOHIwYJlXH94E3tI/gDlUg=
 github.com/cloudflare/circl v1.3.6/go.mod h1:5XYMA4rFBvNIrhs50XuiBJ15vF2pZn4nnUKZrLbUZFA=
 github.com/go-logr/logr v1.2.4 h1:g01GSCwiDw2xSZfjJ2/T9M+S6pFdcNtFYsp+Y43HYDQ=
