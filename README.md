@@ -117,3 +117,8 @@ Special thanks to the following people for helping me with this project.
 - [cc](https://github.com/x04/) for guiding me when I first started this project and inspiring me with [cclient](https://github.com/x04/cclient)
 
 - [umasi](https://github.com/umasii) for being good rubber ducky and giving me tips for http2 headers
+
+
+## Merge branch
+git remote add upstream https://github.com/bogdanfinn/fhttp.git
+git pull upstream master
